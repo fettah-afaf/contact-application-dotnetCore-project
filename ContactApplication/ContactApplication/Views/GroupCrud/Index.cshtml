@@ -1,0 +1,61 @@
+@model IEnumerable<ContactApplication.Models.Group>
+@{
+ViewData["Title"] = "AddContactGroupNew";
+
+}
+
+<div class="row d-flex align-items-center justify-content-center" style="margin: 100px;">
+    <h5 style="margin-bottom: 20px; font-weight: bold;
+  font-size: 1.1em;">See Your Contact Groups </h5>
+
+    <div class="gradient-buttonn " style=" margin-bottom: 20px;">
+        <a  asp-action="Create">Create New Group</a>
+    </div>
+    <main class="table" id="customers_table" style="margin-top: 20px;">
+        <section class="table__header">
+            <h1>Contact Groups </h1>
+            <div class="input-group">
+                <input type="search" placeholder="Search Data..." >
+                <img src="~/images/search.png" alt="">
+            </div>
+        </section>
+        <section class="table__body">
+            <table >
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.GroupName)
+        </th>
+        <th> Action </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.GroupName)
+        </td>
+        <td>
+            <form asp-action="Edit" asp-route-id="@item.GroupId" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-primary btn-sm">Edit</button>
+            </form>
+            <form asp-action="Details" asp-route-id="@item.GroupId" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-info btn-sm">Details</button>
+            </form>
+            <form asp-action="Delete" asp-route-id="@item.GroupId" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this group?');">
+                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+            </form>
+            <form asp-action="AddContactGroupNew" asp-route-id="@item.GroupId" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-success btn-sm">Add New ContactGroup</button>
+            </form>
+            <form asp-action="AddContactGroupExist" asp-route-id="@item.GroupId" method="get" style="display:inline;">
+                <button type="submit" class="btn btn-warning btn-sm">Add Existing ContactGroup</button>
+            </form>
+        </td>
+    </tr>
+    }
+    </tbody>
+</table>
+        </section>
+    </main>
+</div>

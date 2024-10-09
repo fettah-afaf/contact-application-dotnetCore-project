@@ -1,0 +1,39 @@
+@model ContactApplication.Models.Group
+
+
+@{
+    ViewData["Title"] = "Create";
+  
+}
+
+<div class="row d-flex align-items-center justify-content-center" style="margin: 100px;">
+    <div class=" justify-content-center" style="width: 100%;">
+        <h5 style="margin-bottom: 20px; font-weight: bold;
+  font-size: 1.1em;">Create  Group  </h5>
+
+
+        <h5 style="margin-bottom: 20px;  font-weight: bold;
+  font-size: 1.1em;">Group</h5>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" style="margin-bottom: 20px; ">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="GroupName" class="control-label"></label>
+                <input asp-for="GroupName" class="form-control" />
+                <span asp-validation-for="GroupName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+        <div>
+            <form asp-action="Index"  style="display:inline;">
+                <button type="submit" class="btn btn-primary btn-sm">Back to List</button>
+            </form>
+        </div></div></div>
+        

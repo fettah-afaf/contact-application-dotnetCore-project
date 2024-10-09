@@ -1,0 +1,84 @@
+
+
+@model IEnumerable<ContactApplication.Models.Contact>
+
+@{
+    ViewData["Title"] = "AddContactGroup";
+}
+<div class="row d-flex align-items-center justify-content-center" style="margin: 100px;">
+    <h5 style="margin-bottom: 20px; font-weight: bold;
+  font-size: 1.1em;">Add Existing Contacts </h5>
+
+    
+    <main class="table" id="customers_table" style="margin-top: 20px;">
+        <section class="table__header">
+            <h1>Contact Groups </h1>
+            <div class="input-group">
+                <input type="search" placeholder="Search Data...">
+                <img src="~/images/search.png" alt="">
+            </div>
+        </section>
+        <section class="table__body">
+            <table >
+        <thead>
+        <input type="hidden" name="groupId" value="@ViewBag.GroupId" />
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Notes)
+            </th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Notes)
+                </td>
+                <td>
+               
+                    <form asp-action="AddContactGroupExist" style="display:inline;">
+                        <input type="hidden" name="contactId" value="@item.ContactId" />
+                        <input type="hidden" name="groupId" value="@ViewBag.GroupId" />
+                        <button type="submit" class="btn btn-info btn-sm">Add</button>
+
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+</section>
+</main>
+</div>

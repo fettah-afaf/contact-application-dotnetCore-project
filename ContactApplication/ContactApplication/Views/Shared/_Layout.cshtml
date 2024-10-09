@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - ContactApplication</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/ContactApplication.styles.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/templatemo-chain-app-dev.css">
+    <link rel="stylesheet" href="~/css/animated.css">
+    <link rel="stylesheet" href="~/css/owl.css">
+</head>
+<body>
+<div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
+<header class="header-area header-sticky wow slideInDown" data-wow-duration="0.75s" data-wow-delay="0s">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <div class="text-center">
+                    <a  class="logo" asp-area="" asp-controller="Home" asp-action="Index" >
+                        <h4>
+                            <span class="contact-text">Contact</span>
+                            <span class="book-text">Book</span>
+                        </h4>                    </a>  </div>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li class="scroll-to-section"> <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="scroll-to-section"><a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+                        <li class="scroll-to-section"><a class="nav-link text-dark" asp-area="" asp-controller="Contact" asp-action="Index">Contact</a></li>
+                        <li class="scroll-to-section"><a class="nav-link text-dark" asp-area="" asp-controller="GroupCrud" asp-action="Index">Group</a></li>
+
+                        <partial name="_LoginPartial"/>
+                    </ul>
+                    
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="containerr">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2024 - ContactApplication - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/js/js/owl-carousel.js"></script>
+<script src="~/js/js/animation.js"></script>
+<script src="~/js/js/imagesloaded.js"></script>
+<script src="~/js/js/popup.js"></script>
+<script src="~/js/js/custom.js"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

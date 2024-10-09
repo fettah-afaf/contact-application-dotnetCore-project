@@ -1,0 +1,91 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.4" />
+      <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.4" />
+      <PackageReference Include="Microsoft.AspNetCore.Razor" Version="2.2.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+      <PackageReference Include="MySql.EntityFrameworkCore" Version="8.0.2" />
+      <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
+      <PackageReference Include="System.Linq" Version="4.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Account\Login.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Account\Register.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\fonts\Flaticon.woff" />
+      <None Include="wwwroot\fonts\flexslider-icon.eot" />
+      <None Include="wwwroot\fonts\flexslider-icon.svg" />
+      <None Include="wwwroot\fonts\flexslider-icon.ttf" />
+      <None Include="wwwroot\fonts\flexslider-icon.woff" />
+      <None Include="wwwroot\fonts\fontawesome-webfont.eot" />
+      <None Include="wwwroot\fonts\fontawesome-webfont.svg" />
+      <None Include="wwwroot\fonts\fontawesome-webfont.ttf" />
+      <None Include="wwwroot\fonts\fontawesome-webfont.woff" />
+      <None Include="wwwroot\fonts\fontawesome-webfont.woff2" />
+      <None Include="wwwroot\fonts\FontAwesome.otf" />
+      <None Include="wwwroot\fonts\slick.eot" />
+      <None Include="wwwroot\fonts\slick.svg" />
+      <None Include="wwwroot\fonts\slick.ttf" />
+      <None Include="wwwroot\fonts\slick.woff" />
+      <None Include="wwwroot\images\about-bg.jpg" />
+      <None Include="wwwroot\images\about-right-dec.png" />
+      <None Include="wwwroot\images\client-bg.png" />
+      <None Include="wwwroot\images\client-image.jpg" />
+      <None Include="wwwroot\images\footer-bg.png" />
+      <None Include="wwwroot\images\heading-line-dec.png" />
+      <None Include="wwwroot\images\logo.png" />
+      <None Include="wwwroot\images\pricing-table-01.png" />
+      <None Include="wwwroot\images\pricing-table-02.png" />
+      <None Include="wwwroot\images\pro-table-bottom.png" />
+      <None Include="wwwroot\images\pro-table-top.png" />
+      <None Include="wwwroot\images\quote.png" />
+      <None Include="wwwroot\images\regular-table-bottom.png" />
+      <None Include="wwwroot\images\regular-table-top.png" />
+      <None Include="wwwroot\images\service-bg.jpg" />
+      <None Include="wwwroot\images\service-icon-01.png" />
+      <None Include="wwwroot\images\service-icon-02.png" />
+      <None Include="wwwroot\images\service-icon-03.png" />
+      <None Include="wwwroot\images\service-icon-04.png" />
+      <None Include="wwwroot\images\service-icon-hover-01.png" />
+      <None Include="wwwroot\images\service-icon-hover-02.png" />
+      <None Include="wwwroot\images\service-icon-hover-03.png" />
+      <None Include="wwwroot\images\service-icon-hover-04.png" />
+      <None Include="wwwroot\images\services-left-dec.png" />
+      <None Include="wwwroot\images\services-right-dec.png" />
+      <None Include="wwwroot\images\slider-dec.png" />
+      <None Include="wwwroot\images\slider-left-dec.png" />
+      <None Include="wwwroot\images\white-logo.png" />
+    </ItemGroup>
+
+</Project>

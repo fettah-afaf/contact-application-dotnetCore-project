@@ -1,0 +1,59 @@
+@model ContactApplication.Models.Contact
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="row d-flex align-items-center justify-content-center" style="margin: 100px;">
+    <div class=" justify-content-center" style="width: 100%;">
+        <h2 class="text-center text-info">Details</h2>
+        <dl class="row" >
+            <dt class = "col-sm-2" style="display:inline;" >
+                @Html.DisplayNameFor(model => model.FirstName)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.FirstName)
+            </dd>
+            <dt class = "col-sm-2" style="display:inline;">
+                @Html.DisplayNameFor(model => model.LastName)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.LastName)
+            </dd>
+            <dt class = "col-sm-2" style="display:inline;">
+                @Html.DisplayNameFor(model => model.Phone)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.Phone)
+            </dd>
+            <dt class = "col-sm-2" style="display:inline;">
+                @Html.DisplayNameFor(model => model.Address)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.Address)
+            </dd>
+            <dt class = "col-sm-2" style="display:inline;">
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class = "col-sm-2" style="display:inline;">
+                @Html.DisplayNameFor(model => model.Notes)
+            </dt>
+            <dd class = "col-sm-10" style="display:inline;">
+                @Html.DisplayFor(model => model.Notes)
+            </dd>
+        </dl>
+        
+</div>
+
+    <div>
+        <form asp-action="Index"  style="display:inline;">
+            <button type="submit" class="btn btn-primary btn-sm">Back to List</button>
+        </form>
+    </div>
+</div>
+
+
+

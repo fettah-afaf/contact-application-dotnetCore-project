@@ -1,0 +1,65 @@
+@using ContactApplication.ViewModels;
+@model AddContactVM
+@{
+ViewData["Title"] = "Create";
+}
+<div class="row d-flex align-items-center justify-content-center" style="margin: 100px;">
+   <div class=" justify-content-center" style="width: 100%;">
+      <h5 style="margin-bottom: 20px; font-weight: bold;
+  font-size: 1.1em;">Create Contact </h5>
+
+
+      <h5 style="margin-bottom: 20px;  font-weight: bold;
+  font-size: 1.1em;">Contact</h5>
+
+      <div class="row">
+         <div class="col-md-4">
+         <form asp-action="Create" style="margin-bottom: 20px; ">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" style="display:inline;">
+               <label asp-for="FirstName" class="control-label"></label>
+               <input asp-for="FirstName" class="form-control" />
+               <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline;">
+               <label asp-for="LastName" class="control-label"></label>
+               <input asp-for="LastName" class="form-control" />
+               <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline;">
+               <label asp-for="Phone" class="control-label"></label>
+               <input asp-for="Phone" class="form-control" />
+               <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+               <label asp-for="Address" class="control-label"></label>
+               <input asp-for="Address" class="form-control" />
+               <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline;">
+               <label asp-for="Email" class="control-label"></label>
+               <input asp-for="Email" class="form-control" />
+               <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline;">
+               <label asp-for="Notes" class="control-label"></label>
+               <input asp-for="Notes" class="form-control" />
+               <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+            <div class="form-group" style="display:inline;">
+               <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+         </form>
+      </div>
+   </div>
+
+
+      <div>
+         <form asp-action="Index"  style="display:inline;">
+            <button type="submit" class="btn btn-primary btn-sm">Back to List</button>
+         </form>
+      </div>
+</div>
+</div>
+
+

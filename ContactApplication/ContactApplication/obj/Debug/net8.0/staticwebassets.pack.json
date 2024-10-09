@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/obj/Debug/net8.0/scopedcss/projectbundle/ContactApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets/ContactApplication.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/css/animated.css",
+      "PackagePath": "staticwebassets/css/animated.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/css/fontawesome.css",
+      "PackagePath": "staticwebassets/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/css/owl.css",
+      "PackagePath": "staticwebassets/css/owl.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/css/templatemo-chain-app-dev.css",
+      "PackagePath": "staticwebassets/css/templatemo-chain-app-dev.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/flexslider-icon.eot",
+      "PackagePath": "staticwebassets/fonts/flexslider-icon.eot"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/flexslider-icon.svg",
+      "PackagePath": "staticwebassets/fonts/flexslider-icon.svg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/flexslider-icon.ttf",
+      "PackagePath": "staticwebassets/fonts/flexslider-icon.ttf"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/flexslider-icon.woff",
+      "PackagePath": "staticwebassets/fonts/flexslider-icon.woff"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/slick.eot",
+      "PackagePath": "staticwebassets/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/slick.svg",
+      "PackagePath": "staticwebassets/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/fonts/slick.woff",
+      "PackagePath": "staticwebassets/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/about-bg.jpg",
+      "PackagePath": "staticwebassets/images/about-bg.jpg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/about-right-dec.png",
+      "PackagePath": "staticwebassets/images/about-right-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/client-bg.png",
+      "PackagePath": "staticwebassets/images/client-bg.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/client-image.jpg",
+      "PackagePath": "staticwebassets/images/client-image.jpg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/footer-bg.png",
+      "PackagePath": "staticwebassets/images/footer-bg.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/heading-line-dec.png",
+      "PackagePath": "staticwebassets/images/heading-line-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/pricing-table-01.png",
+      "PackagePath": "staticwebassets/images/pricing-table-01.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/pricing-table-02.png",
+      "PackagePath": "staticwebassets/images/pricing-table-02.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/pro-table-bottom.png",
+      "PackagePath": "staticwebassets/images/pro-table-bottom.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/pro-table-top.png",
+      "PackagePath": "staticwebassets/images/pro-table-top.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/quote.png",
+      "PackagePath": "staticwebassets/images/quote.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/regular-table-bottom.png",
+      "PackagePath": "staticwebassets/images/regular-table-bottom.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/regular-table-top.png",
+      "PackagePath": "staticwebassets/images/regular-table-top.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/search.png",
+      "PackagePath": "staticwebassets/images/search.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-bg.jpg",
+      "PackagePath": "staticwebassets/images/service-bg.jpg"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-01.png",
+      "PackagePath": "staticwebassets/images/service-icon-01.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-02.png",
+      "PackagePath": "staticwebassets/images/service-icon-02.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-03.png",
+      "PackagePath": "staticwebassets/images/service-icon-03.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-04.png",
+      "PackagePath": "staticwebassets/images/service-icon-04.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-hover-01.png",
+      "PackagePath": "staticwebassets/images/service-icon-hover-01.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-hover-02.png",
+      "PackagePath": "staticwebassets/images/service-icon-hover-02.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-hover-03.png",
+      "PackagePath": "staticwebassets/images/service-icon-hover-03.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/service-icon-hover-04.png",
+      "PackagePath": "staticwebassets/images/service-icon-hover-04.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/services-left-dec.png",
+      "PackagePath": "staticwebassets/images/services-left-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/services-right-dec.png",
+      "PackagePath": "staticwebassets/images/services-right-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/slider-dec.png",
+      "PackagePath": "staticwebassets/images/slider-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/slider-left-dec.png",
+      "PackagePath": "staticwebassets/images/slider-left-dec.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/images/white-logo.png",
+      "PackagePath": "staticwebassets/images/white-logo.png"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/animation.js",
+      "PackagePath": "staticwebassets/js/js/animation.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/custom.js",
+      "PackagePath": "staticwebassets/js/js/custom.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/imagesloaded.js",
+      "PackagePath": "staticwebassets/js/js/imagesloaded.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/isotope.js",
+      "PackagePath": "staticwebassets/js/js/isotope.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/owl-carousel.js",
+      "PackagePath": "staticwebassets/js/js/owl-carousel.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/popup.js",
+      "PackagePath": "staticwebassets/js/js/popup.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/js/tabs.js",
+      "PackagePath": "staticwebassets/js/js/tabs.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/macbook/RiderProjects/ContactApplication/ContactApplication/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ContactApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ContactApplication.props",
+      "PackagePath": "build\\ContactApplication.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ContactApplication.props",
+      "PackagePath": "buildMultiTargeting\\ContactApplication.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ContactApplication.props",
+      "PackagePath": "buildTransitive\\ContactApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
